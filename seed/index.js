@@ -25,7 +25,7 @@ const movies = [
     "director": "Wolfgang Petersen",
     "duration": 102,
     "synopsis": "To escape from his dull life and bullies at school, Bastain takes refuge in an old book store.",
-    "image": "https://pics.filmaffinity.com/die_unendliche_geschichte_the_neverending_story-636909335-mmed.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/en/9/9b/Neverendingstoryposter.jpg"
   },
   {
     "title": "E.T",
